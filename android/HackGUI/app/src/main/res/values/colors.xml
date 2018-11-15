@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    /Our inputs
+
+    <color name="colorFontYellow">#fff176</color>
+    <color name="colorPrimaryBlack">#000000</color>
+
+    <color name="colorFontBlack">#000000</color>
+    <color name="colorPrimaryWhite">#ffffff</color>
+
+    <color name="debugPanelBackground">#fff</color>
+
+</resources>

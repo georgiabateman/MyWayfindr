@@ -1,0 +1,384 @@
+`<edge id="1013TO1016" source="1013" target="1016">
+  <data key="beginning">1013TO1016b</data>
+  <data key="middle">1013TO1016m</data>
+  <data key="end">1013TO1016e</data>
+  <data key="travel_time">  5</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 1</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1008TO1016" source="1008" target="1016">
+  <data key="beginning">1008TO1016b</data>
+  <data key="middle">1008TO1016m</data>
+  <data key="end">1008TO1016e</data>
+  <data key="travel_time">  5000</data>
+  <data key="dim"> 0</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 10</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1008TO1002" source="1008" target="1002">
+  <data key="beginning">1008TO1002b</data>
+  <data key="middle">1008TO1002m</data>
+  <data key="end">1008TO1002e</data>
+  <data key="travel_time">  405</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 1</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 9</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1002TO1008" source="1002" target="1008">
+  <data key="beginning">1002TO1008b</data>
+  <data key="middle">1002TO1008m</data>
+  <data key="end">1002TO1008e</data>
+  <data key="travel_time">  320</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 1</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 8</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1002TO1009" source="1002" target="1009">
+  <data key="beginning">1002TO1009b</data>
+  <data key="middle">1002TO1009m</data>
+  <data key="end">1002TO1009e</data>
+  <data key="travel_time">  245</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 7</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1002TO1003" source="1002" target="1003">
+  <data key="beginning">1002TO1003b</data>
+  <data key="middle">1002TO1003m</data>
+  <data key="end">1002TO1003e</data>
+  <data key="travel_time">  10</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 1</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1009TO1002" source="1009" target="1002">
+  <data key="beginning">1009TO1002b</data>
+  <data key="middle">1009TO1002m</data>
+  <data key="end">1009TO1002e</data>
+  <data key="travel_time">  5</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 1</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1009TO1016" source="1009" target="1016">
+  <data key="beginning">1009TO1016b</data>
+  <data key="middle">1009TO1016m</data>
+  <data key="end">1009TO1016e</data>
+  <data key="travel_time">  1800</data>
+  <data key="dim"> 0</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 6</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1016TO1013" source="1016" target="1013">
+  <data key="beginning">1016TO1013b</data>
+  <data key="middle">1016TO1013m</data>
+  <data key="end">1016TO1013e</data>
+  <data key="travel_time">  80</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 4</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1016TO1008" source="1016" target="1008">
+  <data key="beginning">1016TO1008b</data>
+  <data key="middle">1016TO1008m</data>
+  <data key="end">1016TO1008e</data>
+  <data key="travel_time">  20</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 2</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1016TO1009" source="1016" target="1009">
+  <data key="beginning">1016TO1009b</data>
+  <data key="middle">1016TO1009m</data>
+  <data key="end">1016TO1009e</data>
+  <data key="travel_time">  180</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 6</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1016TO1017" source="1016" target="1017">
+  <data key="beginning">1016TO1017b</data>
+  <data key="middle">1016TO1017m</data>
+  <data key="end">1016TO1017e</data>
+  <data key="travel_time">  810</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 9</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1017TO1016" source="1017" target="1016">
+  <data key="beginning">1017TO1016b</data>
+  <data key="middle">1017TO1016m</data>
+  <data key="end">1017TO1016e</data>
+  <data key="travel_time">  1600</data>
+  <data key="dim"> 0</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 4</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1017TO1003" source="1017" target="1003">
+  <data key="beginning">1017TO1003b</data>
+  <data key="middle">1017TO1003m</data>
+  <data key="end">1017TO1003e</data>
+  <data key="travel_time">  735</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 7</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1017TO1025" source="1017" target="1025">
+  <data key="beginning">1017TO1025b</data>
+  <data key="middle">1017TO1025m</data>
+  <data key="end">1017TO1025e</data>
+  <data key="travel_time">  15</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 1</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1025TO1017" source="1025" target="1017">
+  <data key="beginning">1025TO1017b</data>
+  <data key="middle">1025TO1017m</data>
+  <data key="end">1025TO1017e</data>
+  <data key="travel_time">  60</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 2</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1027TO1028" source="1027" target="1028">
+  <data key="beginning">1027TO1028b</data>
+  <data key="middle">1027TO1028m</data>
+  <data key="end">1027TO1028e</data>
+  <data key="travel_time">  40</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 2</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1027TO1029" source="1027" target="1029">
+  <data key="beginning">1027TO1029b</data>
+  <data key="middle">1027TO1029m</data>
+  <data key="end">1027TO1029e</data>
+  <data key="travel_time">  3200</data>
+  <data key="dim"> 0</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 8</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1029TO1027" source="1029" target="1027">
+  <data key="beginning">1029TO1027b</data>
+  <data key="middle">1029TO1027m</data>
+  <data key="end">1029TO1027e</data>
+  <data key="travel_time">  500</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 10</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1029TO1030" source="1029" target="1030">
+  <data key="beginning">1029TO1030b</data>
+  <data key="middle">1029TO1030m</data>
+  <data key="end">1029TO1030e</data>
+  <data key="travel_time">  80</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 4</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1030TO1029" source="1030" target="1029">
+  <data key="beginning">1030TO1029b</data>
+  <data key="middle">1030TO1029m</data>
+  <data key="end">1030TO1029e</data>
+  <data key="travel_time">  320</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 8</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1003TO1002" source="1003" target="1002">
+  <data key="beginning">1003TO1002b</data>
+  <data key="middle">1003TO1002m</data>
+  <data key="end">1003TO1002e</data>
+  <data key="travel_time">  360</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 6</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1003TO1017" source="1003" target="1017">
+  <data key="beginning">1003TO1017b</data>
+  <data key="middle">1003TO1017m</data>
+  <data key="end">1003TO1017e</data>
+  <data key="travel_time">  2400</data>
+  <data key="dim"> 0</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 4</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1003TO1005" source="1003" target="1005">
+  <data key="beginning">1003TO1005b</data>
+  <data key="middle">1003TO1005m</data>
+  <data key="end">1003TO1005e</data>
+  <data key="travel_time">  14700</data>
+  <data key="dim"> 0</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 1</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 7</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1005TO1003" source="1005" target="1003">
+  <data key="beginning">1005TO1003b</data>
+  <data key="middle">1005TO1003m</data>
+  <data key="end">1005TO1003e</data>
+  <data key="travel_time">  2700</data>
+  <data key="dim"> 0</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 1</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 3</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1005TO1006" source="1005" target="1006">
+  <data key="beginning">1005TO1006b</data>
+  <data key="middle">1005TO1006m</data>
+  <data key="end">1005TO1006e</data>
+  <data key="travel_time">  1250</data>
+  <data key="dim"> 0</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 5</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1005TO1028" source="1005" target="1028">
+  <data key="beginning">1005TO1028b</data>
+  <data key="middle">1005TO1028m</data>
+  <data key="end">1005TO1028e</data>
+  <data key="travel_time">  320</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 8</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1006TO1005" source="1006" target="1005">
+  <data key="beginning">1006TO1005b</data>
+  <data key="middle">1006TO1005m</data>
+  <data key="end">1006TO1005e</data>
+  <data key="travel_time">  245</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 7</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1006TO1007" source="1006" target="1007">
+  <data key="beginning">1006TO1007b</data>
+  <data key="middle">1006TO1007m</data>
+  <data key="end">1006TO1007e</data>
+  <data key="travel_time">  405</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 9</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1007TO1006" source="1007" target="1006">
+  <data key="beginning">1007TO1006b</data>
+  <data key="middle">1007TO1006m</data>
+  <data key="end">1007TO1006e</data>
+  <data key="travel_time">  320</data>
+  <data key="dim"> 1</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 8</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1028TO1027" source="1028" target="1027">
+  <data key="beginning">1028TO1027b</data>
+  <data key="middle">1028TO1027m</data>
+  <data key="end">1028TO1027e</data>
+  <data key="travel_time">  4900</data>
+  <data key="dim"> 0</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 7</data>
+  <data key="language">en-GB</data>
+  </edge>
+ <edge id="1028TO1005" source="1028" target="1005">
+  <data key="beginning">1028TO1005b</data>
+  <data key="middle">1028TO1005m</data>
+  <data key="end">1028TO1005e</data>
+  <data key="travel_time">  400</data>
+  <data key="dim"> 0</data>
+  <data key="stairs"> 0</data>
+  <data key="escs"> 0</data>
+  <data key="lift"> 0</data>
+  <data key="crowd"> 2</data>
+  <data key="language">en-GB</data>
+  </edge>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hein.hackgui">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/wayfindr"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/wayfindr"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Question1Activity" />
+        <activity android:name=".Question2Activity" />
+        <activity android:name=".Question3Activity" />
+        <activity android:name=".Question4Activity" />
+        <activity android:name=".Question4bActivity" />
+        <activity android:name=".Question5Activity" />
+        <activity android:name=".Question5aActivity" />
+        <activity android:name=".Question5bActivity" />
+        <activity android:name=".Question6Activity" />
+        <activity android:name=".Question7Activity" />
+        <activity android:name=".Question8Activity" />
+        <activity android:name=".WayfindrActivity" />
+    </application>
+
+</manifest>

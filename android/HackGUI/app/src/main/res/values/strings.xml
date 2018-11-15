@@ -1,0 +1,32 @@
+<resources>
+    //<string name="app_name_former">HackGUI</string>
+
+
+    /Our inputs
+    <string name="app_name">MyWayfindr</string>
+    <string name="welcome">Hi!</string>
+    <string name="swipe">Swipe left to continue!</string>
+    <string name="start_question">We want to make this App yours.</string>
+    <string name="color_pref_1">High Contrast 1</string>
+    <string name="color_pref_2">High Contrast 2</string>
+    <string name="visual_1">Acuity</string>
+    <string name="visual_2">Visual Field</string>
+    <string name="visual_3">Contrast</string>
+    <string name="visual_4">Colour</string>
+    <string name="No">No</string>
+    <string name="Yes">Yes</string>
+    <string name="debug_current_messages_empty"><![CDATA[<None>]]></string>
+    <string name="debug_current_messages_label">Current messages:</string>
+    <string name="debug_fake_beacons_label">Fake beacons:</string>
+    <string name="debug_visit_message_1">Visit message 1</string>
+    <string name="debug_visit_message_2">Visit message 2</string>
+    <string name="debug_visit_message_3">Visit message 3</string>
+    <string name="debug_waiting_for_id_label">Waiting for id:</string>
+    <string name="direction_title">Wayfindr</string>
+    <string name="loading">Awaiting beacons…</string>
+    <string name="restart">Restart</string>
+    <string name="show_debug">Show debug</string>
+    <string name="dracula">Dracula</string>
+
+
+</resources>

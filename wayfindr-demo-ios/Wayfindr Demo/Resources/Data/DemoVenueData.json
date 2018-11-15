@@ -1,0 +1,52 @@
+{
+    "venue": {
+        "name": "Demo Venue",
+        "platforms": [{
+            "name": "Platform (1007)",
+            "entrance_beacon_major": 900,
+            "entrance_beacon_minor": 1007,
+            "exit_beacon_major": 900,
+            "exit_beacon_minor": 1007,
+            "destinations": ["Hackathon Room (1007)"]
+        },{
+            "name": "Platform (1030)",
+            "entrance_beacon_major": 900,
+            "entrance_beacon_minor": 1030,
+            "exit_beacon_major": 900,
+            "exit_beacon_minor": 1030,
+            "destinations": ["Platform 2 (1030)"]
+        },{
+            "name": "Start (1013)",
+            "entrance_beacon_major": 900,
+            "entrance_beacon_minor": 1013,
+            "exit_beacon_major": 900,
+            "exit_beacon_minor": 1013,
+            "destinations": ["Exit Lifts (1013)"]
+        },{
+            "name": "Center Area (1017)",
+            "entrance_beacon_major": 900,
+            "entrance_beacon_minor": 1013,
+            "exit_beacon_major": 900,
+            "exit_beacon_minor": 1013,
+            "destinations": ["Center Area (1017)"]
+        }],
+        "exits": [{
+            "name": "Entrance (1013)",
+            "entrance_beacon_major": 900,
+            "entrance_beacon_minor": 1013,
+            "exit_beacon_major": 900,
+            "exit_beacon_minor": 1013,
+            "mode": "Exit"
+        }],
+        "station_facilities": [
+            {
+                "name": "Escalator - 1027",
+                "entrance_beacon_major": 900,
+                "entrance_beacon_minor": 1027,
+                "exit_beacon_major": 900,
+                "exit_beacon_minor": 1027
+            }
+        ]
+        
+    }
+}

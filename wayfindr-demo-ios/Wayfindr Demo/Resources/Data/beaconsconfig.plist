@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultsdk</key>
+	<string>iBeacon</string>
+	<key>bcapikeyrsbc</key>
+	<string>1ec7f672-ce7f-487e-9afd-8b07e6f11141</string>
+	<key>bcapikeyvenue2</key>
+	<string>56c41a75-9c4c-46c4-a47e-ca2d04f2ca19</string>
+	<key>regionid</key>
+	<string>beacbeac-beac-beac-beac-beacbeacbeac</string>
+	<key>regionname</key>
+	<string>bluecats</string>
+	<key>demoregionid</key>
+	<string>beacbeac-beac-beac-beac-beacbeacbeac</string>
+	<key>demoregionname</key>
+	<string>demo</string>
+</dict>
+</plist>
